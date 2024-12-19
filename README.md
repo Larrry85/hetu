@@ -18,3 +18,16 @@ Aja ohjelma:
 cd mainfolder
 ./main
 ```
+
+## Example
+```
+######################################
+Welcome to hetu checker!
+######################################
+
+Give your hetu: 
+DDMMYY-1234
+Valid hetu.
+Your birthday is: DD.MM.YYYY
+Your identifier sign is female.
+```
